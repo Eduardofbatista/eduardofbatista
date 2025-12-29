@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Systems Analysis and Development student at **UTFPR – Universidade Tecnológica Federal do Paraná**
+- 🎓 Systems Analyst and Software Developer | FEMA – Fundação Educacional do Município de Assis
 - 💻 Working as a **Fullstack Developer**, focused on real-world web applications
 - 🚀 Currently studying and working with **Go**
 - 🧠 Strong interest in **low-level technologies**, performance, and backend systems
